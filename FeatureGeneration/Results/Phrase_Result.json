@@ -1,0 +1,78 @@
+[
+    {
+        "TFIDF_np_s_t.json": {
+            "accuracy": 0.653,
+            "f1_score": 0.647
+        },
+        "TFIDF_bi_s_t.json": {
+            "accuracy": 0.763,
+            "f1_score": 0.763
+        },
+        "TFIDF_np_w_s_t.json": {
+            "accuracy": 0.715,
+            "f1_score": 0.711
+        },
+        "TFIDF_tri_l_t.json": {
+            "accuracy": 0.828,
+            "f1_score": 0.828
+        },
+        "TFIDF_bi_w_s_t.json": {
+            "accuracy": 0.852,
+            "f1_score": 0.852
+        },
+        "TFIDF_tri_w_s_t.json": {
+            "accuracy": 0.852,
+            "f1_score": 0.852
+        },
+        "TFIDF_bi_l_t.json": {
+            "accuracy": 0.828,
+            "f1_score": 0.828
+        },
+        "TFIDF_np_l_t.json": {
+            "accuracy": 0.715,
+            "f1_score": 0.715
+        },
+        "TFIDF_tri_s_t.json": {
+            "accuracy": 0.765,
+            "f1_score": 0.765
+        }
+    },
+    {
+        "bin_bi_w_s_t.json": {
+            "accuracy": 0.743,
+            "f1_score": 0.731
+        },
+        "bin_bi_s_t.json": {
+            "accuracy": 0.56,
+            "f1_score": 0.462
+        },
+        "bin_np_s_t.json": {
+            "accuracy": 0.647,
+            "f1_score": 0.64
+        },
+        "bin_np_w_s_t.json": {
+            "accuracy": 0.693,
+            "f1_score": 0.687
+        },
+        "bin_tri_l_t.json": {
+            "accuracy": 0.747,
+            "f1_score": 0.737
+        },
+        "bin_tri_w_s_t.json": {
+            "accuracy": 0.743,
+            "f1_score": 0.731
+        },
+        "bin_tri_s_t.json": {
+            "accuracy": 0.553,
+            "f1_score": 0.45
+        },
+        "bin_np_l_t.json": {
+            "accuracy": 0.702,
+            "f1_score": 0.699
+        },
+        "bin_bi_l_t.json": {
+            "accuracy": 0.752,
+            "f1_score": 0.743
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "TFIDF_l_t.json": {
+            "accuracy": 0.82,
+            "f1_score": 0.82
+        },
+        "TFIDF_s_t.json": {
+            "accuracy": 0.765,
+            "f1_score": 0.765
+        },
+        "TFIDF_w_s_t.json": {
+            "accuracy": 0.852,
+            "f1_score": 0.852
+        }
+    },
+    {
+        "bin_l_t.json": {
+            "accuracy": 0.802,
+            "f1_score": 0.801
+        },
+        "bin_w_s_t.json": {
+            "accuracy": 0.797,
+            "f1_score": 0.795
+        },
+        "bin_s_t.json": {
+            "accuracy": 0.627,
+            "f1_score": 0.586
+        }
+    }
+]
